@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SuperHeroProfileVisor.Properties
+namespace SuperHeroProfileView.Properties
 {
 
 
